@@ -1,1 +1,1 @@
-# -zk-dapp-on-mina
+# zk-dapp-on-mina
